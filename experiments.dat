@@ -1,0 +1,5 @@
+--optim SGD
+--optim SAM --dd_rho 0.05
+--optim ASAM --dd_rho 0.5
+--optim SAMSON --dd_rho 0.2 --samson_norm inf
+--optim SAMSON --dd_rho 0.2 --samson_norm 2
